@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "emojichat-fa4db",
+  "private_key_id": "cd61d4d21f85c58aab44335e7647437fc1f678cb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDGzrZqD36vUTQ/\naxBlIjLcviIwzEFJ0wdBrBGHmVl6lGDITACLWlM0YeYGtqhPFFoaTahFSPdnOSCo\n0JZpKFYwUjqQ+kzKsZ1D/SnyUt3O/Erdz3nRUpLx4/6r4lGt6C2iNge73W8pyvW5\nTkFOACXQa5x4SUURWV78pVlUUIEyw1/c9LhbPfnsEoWNgkDhWs/CrlRs00tCoXpu\naFcuCi2N1vXiVZ8s16Z5oN9p0wsmPuiMePw0tXRIgJ3OHlucBjSJ+xscqdd/bErh\nudLeGizkLU3D2vpSNGK0pnDFaH+wQ5t+FtrDAPGQwn2UTVG98sUq9aEZEVUVsCZ2\nlo2z6QgtAgMBAAECggEAKvRe1Wujo52X/FvVnwRUmP07xe9b6+d8mePjpbisbJ/C\niYRiWbmaYKcGXEz68JslHKnKwa2SRutA8zieRvpAJRCfNtPd462cnSQF/CWLZz17\nr5E0cNW2ii0IyXqMy1ZvBa1G3oBplE4V6YPO+Ftv0ChwFk0+bxEwRMY1FtKOF7ld\nbnXvrPL6vE8V73JTeGc7TTFvcGQGjlfmvpD+AIaKrVBQtGkGLslp9jqNZlNJ7A4d\nY8LwxbQBrkMYBc/G8bL8//jnHX8tXEiWKWjVLK7AOj2nodSJ0SbvdJI3GRIFJuIi\nMHZ+6JUqgLlXdcHtud9MX6ZWzyKxbFd3tIpyjf+swQKBgQDkS3aPNZ4tBp7Xj14M\ndxVxZFuw6VsVgeOEQ1BQKWcZ3JNuQDGu1+1W5V+IA/pXbVUtRN6C1Par9E7tAWa/\n0q5qibELxYOaSNCN0Stv2j2GEvEotJ9QpmdkASsuSXujSicWumUu6An7FjS8+JKU\neHRv09RuWprpqA3Ype6VUymRjwKBgQDe7ydqLfcFBtRA91bGAs9IA9d49WCnZDR3\n7n9bdMo26cLXrKrVk/uCNQFZHhigEGpIslYgH7sth+LlkwMqXiKWdVXKqzY937ie\n8emH8P0a8IOPOrEu62zyohhowJsH6sCoTBICErgi60w6++KYUkZkZrNzJrc0fDnO\nUjVK9IW0gwKBgQDj8kluEs5eDNc7SsZQUfMSJm+7BDXTEr82h/PAJqbwVqLKmcRB\n3Q35DsvFRpuHAf7jVXmLTtMBvM21rgmHDPjkHZmutEeEHKJIiAsEAvgdT/qFd1v/\nrjdbziLsc6jE0TyYYAK5xCx7DaAY82WAY4l3Qx5AFa3KEefJY10GsmO2FwKBgC0R\nihVUH4kbnVNY7WjwbnkvlaL1cEnG3ziTtZmGnc7GKUayuIKe/QyQrKoYhH/vcZ0q\nuHCcGZoVy4//zXcGOtXR+LsVK80MamVvoHeEB5cnomEVS3ahz4+pp2ed8HmEQtiD\nMGzM3f7pNKsD+wYyM9reTE7uN8Fbj9AfHHj/v/wDAoGANkD+F0s+udc9CGE6JvAh\nHBPuDFORY0HJNfTzlQSErcC6+BFeVIHyYvdcwVfmrRe7JbuYLi87mpnxBsE8i+ZG\nHToUhi0KRximYKhvrc9xdQtY+JF6pWHJjYIzupUHHZjOOEGfICxT14BOA+gr3IWi\nCL7dzlpI25fHPasvusB+Jzc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "samtest@emojichat-fa4db.iam.gserviceaccount.com",
+  "client_id": "111260114879420384033",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/samtest%40emojichat-fa4db.iam.gserviceaccount.com"
+}
